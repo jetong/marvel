@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+  padding: .5em;
+}
+
+.card-container {
+  padding: 1em 5em;
+}
+
+.filler {
+  height: 500px;
+}
